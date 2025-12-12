@@ -2,11 +2,11 @@
 
 #### _[Project Link](https://prattsavi.maps.arcgis.com/apps/instant/atlas/index.html?appid=d5239b107dd8435ab64550586b3d1ccf)_
 
-# **Project Overview**
+## **Project Overview**
 
 This project examines the spatial relationship between mortgage activity, Qualified Opportunity Zones (QOZs), rent changes over time, and residential development indicators in California and Florida. The goal is to understand whether QOZs are positioned in areas experiencing economic investment or market shifts, and how spatial statistics reveal the dynamics of mortgage clustering and development. The analysis incorporates mortgage counts, rent values from 2010 (inflation-adjusted) and 2023, and residential building permits, alongside designated QOZ boundaries.
 
-# **Data Sources**
+## **Data Sources**
 
 * Census tracts (TIGER/ACS)
 * QOZ polygons (IRS Opportunity Zone dataset)
@@ -15,7 +15,7 @@ This project examines the spatial relationship between mortgage activity, Qualif
 * Residential building permits (California and Florida)
 * ArcGIS spatial statistics tools (Global Moran’s I, Local Moran’s I, Getis–Ord Gi*)
 
-# **Research Questions**
+## **Research Questions**
 
 1. Are mortgages clustered spatially in California?
 2. Do QOZs overlap with mortgage clusters or outlier tracts?
@@ -23,18 +23,18 @@ This project examines the spatial relationship between mortgage activity, Qualif
 4. Are new residential building permits occurring inside QOZs or in surrounding areas?
 5. Overall, does spatial evidence suggest that QOZ policy is aligned with real market activity?
 
-# **Building Permits: California vs. Florida**
+## **Building Permits: California vs. Florida**
 
 In California, residential building permits are clustered heavily in coastal metros (Los Angeles, San Diego, the Bay Area). QOZs are usually located outside these active permit corridors, implying a disconnect between where development is happening and where incentives are offered.
 
 In Florida, building permits are more spatially dispersed across metropolitan areas, and QOZs more frequently overlap areas with active construction. This indicates stronger alignment between QOZ placement and real development patterns in Florida than in California.
 
- # Rent Change: 2010 to 2023**
+ ## **Rent Change: 2010 to 2023**
 
 Rent maps show significant increases in coastal regions such as Los Angeles, the Bay Area, and San Diego. Interior regions remain more affordable, though still rising. QOZs typically appear in lower rent tracts but often border zones where rents have increased sharply. This suggests that QOZs may be influenced by rising rent spillovers, even if the zones themselves are not currently in high rent markets.
 
 
-# Global Moran’s I (Spatial Clustering Test)**
+## **Global Moran’s I (Spatial Clustering Test)**
 
 Global Moran’s I = 0.356
 z-score = 72.31
@@ -42,13 +42,13 @@ p-value < 0.000001
 
 Mortgage activity in California is highly clustered. High mortgage tracts tend to be near other high mortgage tracts, and low-mortgage tracts cluster together as well. This confirms that local spatial analyses (Local Moran’s I and Getis–Ord Gi*) are appropriate.
 
-# **Getis–Ord Gi* (Hot Spot Analysis)**
+## **Getis–Ord Gi* (Hot Spot Analysis)**
 
 The Gi* hotspot map shows statistically significant concentrations of mortgage activity. Strong hotspots (95–99% confidence) occur in the San Francisco Peninsula, Silicon Valley, Oakland, and Sacramento metro area. Cold spots are found in the Central Valley, rural northern counties, and outer exurban regions.
 
 Most QOZs do not intersect strong mortgage hotspots. Instead, they tend to lie in cold spot or not significant areas. When overlaps do occur, they are usually at lower confidence levels (around 90%). This suggests that QOZs are rarely placed in locations with strong underlying mortgage investment dynamics.
 
-# **7. Local Moran’s I (Cluster and Outlier Analysis)**
+## **7. Local Moran’s I (Cluster and Outlier Analysis)**
 
 The Local Moran’s I map reveals four types of spatial patterns:
 
@@ -59,7 +59,7 @@ The Local Moran’s I map reveals four types of spatial patterns:
 
 QOZs mostly appear in Low–Low mortgage clusters, indicating that they are located in the weakest mortgage markets. A smaller number fall within High–Low or Low–High outlier tracts, suggesting uneven or emerging areas of investment or development potential.
 
-# **Synthesis of Findings**
+## **Synthesis of Findings**
 
 * Mortgage activity is strongly clustered, with QOZs located mainly in low activity areas.
 * Hotspot analysis shows limited alignment between QOZ locations and regions of strong investment.
@@ -67,7 +67,7 @@ QOZs mostly appear in Low–Low mortgage clusters, indicating that they are loca
 * Rent changes highlight rising economic pressure near many QOZ adjacent areas.
 * Development alignment differs by state. QOZs in Florida appear better positioned relative to new construction than those in California.
 
-# **Interpretation for QOZ Policy**
+## **Interpretation for QOZ Policy**
 
 **Strengths:**
 QOZs successfully target low investment areas, consistent with their policy intent. Some tracts show emerging signs of investment that could be connected to QOZ incentives.
