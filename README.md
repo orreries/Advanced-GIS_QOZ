@@ -2,7 +2,12 @@
 
 ## **Project Overview**
 
-This project examines the spatial relationship between mortgage activity, Qualified Opportunity Zones (QOZs), rent changes over time, and residential development indicators in California and Florida. The goal is to understand whether QOZs are positioned in areas experiencing economic investment or market shifts, and how spatial statistics reveal the dynamics of mortgage clustering and development. The analysis incorporates mortgage counts, rent values from 2010 (inflation-adjusted) and 2023, and residential building permits, alongside designated QOZ boundaries.
+This project examines the spatial relationship between mortgage activity, Qualified Opportunity Zones (QOZs), rent changes over time, and residential development indicators in California. The goal is to understand whether QOZs are positioned in areas experiencing economic investment or market shifts, and how spatial statistics reveal the dynamics of mortgage clustering and development. The analysis incorporates mortgage counts, rent values from 2010 (inflation-adjusted) and 2023, and residential building permits, alongside designated QOZ boundaries.
+
+### _Why California?_
+California serves as an ideal case study for examining Qualified Opportunity Zone tax incentives because it concentrates the fundamental tensions shaping housing markets nationwide. It exhibits extreme demand pressures, decades of underbuilding, sharp rent escalations, and pronounced socioeconomic stratification. The state offers a view of QOZs operating within some of the nation's highest construction volumes yet most persistent affordability crises. They crop up in markets that are simultaneously among the most regulated and most expensive. This makes California a prudent frame of reference while observing mechanisms linking federal tax policy, local development patterns, and displacement pressures emerge.
+
+Importantly, the spatial patterns observable in California are not unique to the state. Examples include QOZs clustering in historically underinvested urban cores, new development concentrating just outside those boundaries, and affordability pressures radiating outward. California offers a clarifying lens on dynamics that operate more broadly. It showcases how incentives interact with market forces and regulatory constraints to shape who builds where and who can afford to stay. While the empirical focus is California, the underlying mechanisms provide insights applicable to communities nationwide grappling with similar policy tools and market conditions.
 
 ## **Data Sources**
 
