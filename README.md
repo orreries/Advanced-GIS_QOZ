@@ -31,7 +31,7 @@ In Florida, building permits are more spatially dispersed across metropolitan ar
 
  # Rent Change: 2010 to 2023**
 
-Rent maps show significant increases in coastal regions such as Los Angeles, the Bay Area, and San Diego. Interior regions remain more affordable, though still rising. QOZs typically appear in lower-rent tracts but often border zones where rents have increased sharply. This suggests that QOZs may be influenced by rising-rent spillovers, even if the zones themselves are not currently in high-rent markets.
+Rent maps show significant increases in coastal regions such as Los Angeles, the Bay Area, and San Diego. Interior regions remain more affordable, though still rising. QOZs typically appear in lower rent tracts but often border zones where rents have increased sharply. This suggests that QOZs may be influenced by rising rent spillovers, even if the zones themselves are not currently in high rent markets.
 
 
 # Global Moran’s I (Spatial Clustering Test)**
@@ -40,7 +40,7 @@ Global Moran’s I = 0.356
 z-score = 72.31
 p-value < 0.000001
 
-Mortgage activity in California is highly clustered. High-mortgage tracts tend to be near other high-mortgage tracts, and low-mortgage tracts cluster together as well. This confirms that local spatial analyses (Local Moran’s I and Getis–Ord Gi*) are appropriate and meaningful.
+Mortgage activity in California is highly clustered. High-mortgage tracts tend to be near other high mortgage tracts, and low-mortgage tracts cluster together as well. This confirms that local spatial analyses (Local Moran’s I and Getis–Ord Gi*) are appropriate.
 
 # **7. Local Moran’s I (Cluster and Outlier Analysis)**
 
@@ -48,14 +48,14 @@ The Local Moran’s I map reveals four types of spatial patterns:
 
 * High–High clusters: Strong mortgage markets, appearing in the Bay Area, Sacramento, and Silicon Valley/San Jose.
 * Low–Low clusters: Weak mortgage markets, concentrated in the Central Valley and rural northeastern California.
-* High–Low outliers: Tracts with high mortgage activity despite being surrounded by low-activity neighbors; these may represent localized redevelopment or early gentrification signals.
-* Low–High outliers: Tracts with low mortgage activity surrounded by higher-activity areas, often reflecting pockets of disinvestment.
+* High–Low outliers: Tracts with high mortgage activity despite being surrounded by low activity neighbors; these may represent localized redevelopment or early gentrification signals.
+* Low–High outliers: Tracts with low mortgage activity surrounded by higher activity areas, often reflecting pockets of disinvestment.
 
 QOZs mostly appear in Low–Low mortgage clusters, indicating that they are located in the weakest mortgage markets. A smaller number fall within High–Low or Low–High outlier tracts, suggesting uneven or emerging areas of investment or development potential.
 
 # **Getis–Ord Gi* (Hot Spot Analysis)**
 
-The Gi* hotspot map shows statistically significant concentrations of mortgage activity. Strong hotspots (95–99% confidence) occur in the San Francisco Peninsula, San Jose/Silicon Valley, the Oakland–Berkeley corridor, and Sacramento metro area. Cold spots are found in the Central Valley, rural northern counties, and outer exurban regions.
+The Gi* hotspot map shows statistically significant concentrations of mortgage activity. Strong hotspots (95–99% confidence) occur in the San Francisco Peninsula, Silicon Valley, Oakland, and Sacramento metro area. Cold spots are found in the Central Valley, rural northern counties, and outer exurban regions.
 
 Most QOZs do not intersect strong mortgage hotspots. Instead, they tend to lie in cold-spot or non-significant areas. When overlaps do occur, they are usually at lower confidence levels (around 90%). This suggests that QOZs are rarely placed in locations with strong underlying mortgage investment dynamics.
 
@@ -65,17 +65,17 @@ The geography of “units with mortgages” confirms the findings from Moran’s
 
 # **Synthesis of Findings**
 
-* Mortgage activity is strongly clustered, with QOZs located mainly in low-activity areas.
+* Mortgage activity is strongly clustered, with QOZs located mainly in low activity areas.
 * Hotspot analysis shows limited alignment between QOZ locations and regions of strong investment.
 * Localized outlier tracts (especially High–Low) point to small pockets of possible redevelopment.
-* Rent changes highlight rising economic pressure near many QOZ-adjacent areas.
+* Rent changes highlight rising economic pressure near many QOZ adjacent areas.
 * Development alignment differs by state: QOZs in Florida appear better positioned relative to new construction than those in California.
 
 # **Interpretation for QOZ Policy**
 
 **Strengths:**
-QOZs successfully target low-investment areas, consistent with their policy intent. Some tracts show emerging signs of investment that could be connected to QOZ incentives.
+QOZs successfully target low investment areas, consistent with their policy intent. Some tracts show emerging signs of investment that could be connected to QOZ incentives.
 
 **Limitations:**
-QOZs rarely coincide with high-investment mortgage hotspots or active development regions, particularly in California. Structural constraints such as zoning and high land costs may limit the effectiveness of QOZ incentives. Market-driven development pressures often bypass QOZs unless supported by additional policy measures.
+QOZs rarely coincide with high investment mortgage hotspots or active development regions, particularly in California. Structural constraints such as zoning and high land costs may limit the effectiveness of QOZ incentives. Market driven development pressures often bypass QOZs unless supported by additional policy measures.
 
