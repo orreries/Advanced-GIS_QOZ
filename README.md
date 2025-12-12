@@ -36,7 +36,7 @@ Rent maps show significant increases in coastal regions such as Los Angeles, the
 
 ## Mortgages (Spatial Statistics)
 
-#### *Global Moran’s I (Spatial Clustering Test)*
+### *Global Moran’s I (Spatial Clustering Test)*
 
 Global Moran’s I = 0.356
 z-score = 72.31
@@ -44,13 +44,13 @@ p-value < 0.000001
 
 Mortgage activity in California is highly clustered. High mortgage tracts tend to be near other high mortgage tracts, and low-mortgage tracts cluster together as well. This confirms that local spatial analyses (Local Moran’s I and Getis–Ord Gi*) are appropriate.
 
-#### *Getis–Ord Gi* (Hot Spot Analysis)*
+### *Getis–Ord Gi* (Hot Spot Analysis)*
 
 The Gi* hotspot map shows statistically significant concentrations of mortgage activity. Strong hotspots (95–99% confidence) occur in the San Francisco Peninsula, Silicon Valley, Oakland, and Sacramento metro area. Cold spots are found in the Central Valley, rural northern counties, and outer exurban regions.
 
 Most QOZs do not intersect strong mortgage hotspots. Instead, they tend to lie in cold spot or not significant areas. When overlaps do occur, they are usually at lower confidence levels (around 90%). This suggests that QOZs are rarely placed in locations with strong underlying mortgage investment dynamics.
 
-#### *Local Moran’s I (Cluster and Outlier Analysis)*
+### *Local Moran’s I (Cluster and Outlier Analysis)*
 
 The Local Moran’s I map reveals four types of spatial patterns:
 
