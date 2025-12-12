@@ -1,7 +1,5 @@
 # Qualified Opportunity Zones Assessment
 
-#### _[Project Link](https://prattsavi.maps.arcgis.com/apps/instant/atlas/index.html?appid=d5239b107dd8435ab64550586b3d1ccf)_
-
 ## **Project Overview**
 
 This project examines the spatial relationship between mortgage activity, Qualified Opportunity Zones (QOZs), rent changes over time, and residential development indicators in California and Florida. The goal is to understand whether QOZs are positioned in areas experiencing economic investment or market shifts, and how spatial statistics reveal the dynamics of mortgage clustering and development. The analysis incorporates mortgage counts, rent values from 2010 (inflation-adjusted) and 2023, and residential building permits, alongside designated QOZ boundaries.
