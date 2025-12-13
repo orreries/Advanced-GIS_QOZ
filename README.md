@@ -67,7 +67,7 @@ QOZs mostly appear in Low–Low mortgage clusters, indicating that they are loca
 
  ## **Rent Change: 2010 to 2023** 
 
-[Link to info and web map](https://github.com/orreries/GIS-Web-Map-Project-Lab-3-) 
+[Project info](https://github.com/orreries/GIS-Web-Map-Project-Lab-3-) 
 
 Rent maps show significant increases in coastal regions such as Los Angeles, the Bay Area, and San Diego. Interior regions remain more affordable, though still rising. QOZs typically appear in lower rent tracts but often border zones where rents have increased sharply. This suggests that QOZs may be influenced by rising rent spillovers, even if the zones themselves are not currently in high rent markets.
 
