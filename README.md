@@ -34,13 +34,6 @@ In California, residential building permits are clustered heavily in coastal met
 
 In Florida, building permits are more spatially dispersed across metropolitan areas, and QOZs more frequently overlap areas with active construction. This indicates stronger alignment between QOZ placement and real development patterns in Florida than in California.
 
- ## **Rent Change: 2010 to 2023** 
-
-[Link to info and web map](https://github.com/orreries/GIS-Web-Map-Project-Lab-3-) 
-
-Rent maps show significant increases in coastal regions such as Los Angeles, the Bay Area, and San Diego. Interior regions remain more affordable, though still rising. QOZs typically appear in lower rent tracts but often border zones where rents have increased sharply. This suggests that QOZs may be influenced by rising rent spillovers, even if the zones themselves are not currently in high rent markets.
-
-
 ## Mortgages (Spatial Statistics)
 
 ### *Global Moran’s I (Spatial Clustering Test)*
@@ -67,6 +60,12 @@ The Local Moran’s I map reveals four types of spatial patterns:
 - Low–High outliers: Tracts with low mortgage activity surrounded by higher activity areas, often reflecting pockets of disinvestment.
 
 QOZs mostly appear in Low–Low mortgage clusters, indicating that they are located in the weakest mortgage markets. A smaller number fall within High–Low or Low–High outlier tracts, suggesting uneven or emerging areas of investment or development potential.
+
+ ## **Rent Change: 2010 to 2023** 
+
+[Link to info and web map](https://github.com/orreries/GIS-Web-Map-Project-Lab-3-) 
+
+Rent maps show significant increases in coastal regions such as Los Angeles, the Bay Area, and San Diego. Interior regions remain more affordable, though still rising. QOZs typically appear in lower rent tracts but often border zones where rents have increased sharply. This suggests that QOZs may be influenced by rising rent spillovers, even if the zones themselves are not currently in high rent markets.
 
 ## **Synthesis of Findings**
 
