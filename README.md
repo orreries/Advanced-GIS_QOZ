@@ -2,7 +2,7 @@
 
 ## **Project Overview**
 
-## [Story Map](https://arcg.is/18iTPH1)
+## [Final Story Map](https://arcg.is/18iTPH1)
 
 This project examines the spatial relationship between mortgage activity, Qualified Opportunity Zones (QOZs), rent changes over time, and residential development indicators in California. The goal is to understand whether QOZs are positioned in areas experiencing economic investment or market shifts, and how spatial statistics reveal the dynamics of mortgage clustering and development. The analysis incorporates mortgage counts, rent values from 2010 (inflation-adjusted) and 2023, and residential building permits, alongside designated QOZ boundaries.
 
