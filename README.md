@@ -36,7 +36,9 @@ In California, residential building permits are clustered heavily in coastal met
 
 In Florida, building permits are more spatially dispersed across metropolitan areas, and QOZs more frequently overlap areas with active construction. This indicates stronger alignment between QOZ placement and real development patterns in Florida than in California.
 
-## Mortgages (Spatial Statistics)
+## Mortgages (Spatial Statistics
+
+[Project info](https://github.com/orreries/Advanced-GIS_QOZ/blob/main/QOZ_Mortgages_Lab2.ipynb)
 
 ### *Global Moran’s I (Spatial Clustering Test)*
 
