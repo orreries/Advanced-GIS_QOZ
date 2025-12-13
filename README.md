@@ -30,6 +30,8 @@ The spatial patterns observable in California are not unique to the state. This 
 
 ## **Building Permits: California vs. Florida**
 
+[Project info](https://github.com/orreries/Advanced-GIS_QOZ/tree/main/Lab%201)
+
 In California, residential building permits are clustered heavily in coastal metros (Los Angeles, San Diego, the Bay Area). QOZs are usually located outside these active permit corridors, implying a disconnect between where development is happening and where incentives are offered.
 
 In Florida, building permits are more spatially dispersed across metropolitan areas, and QOZs more frequently overlap areas with active construction. This indicates stronger alignment between QOZ placement and real development patterns in Florida than in California.
